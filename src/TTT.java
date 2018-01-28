@@ -1,6 +1,7 @@
+// This is a Tic Tac Toe game against a bot.
+
 import java.util.Random;
 import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
 
 public class TTT {
 
