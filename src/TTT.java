@@ -4,14 +4,12 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class TTT {
-
     private static final Scanner input = new Scanner(System.in);
     public static Board board = new Board();
     private static int realPlayer;
     private static int cpu;
 
     public static void main(String[] args) {
-
         playGame();
     }
 
