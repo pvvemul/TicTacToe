@@ -1,5 +1,6 @@
 // This is a Tic Tac Toe game against a bot.
 
+import java.io.File;
 import java.util.Random;
 import java.util.Scanner;
 
